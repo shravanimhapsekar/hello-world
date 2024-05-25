@@ -1,2 +1,3 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+Hey Hi
+I'm Shravani ! 
+I'm learning German Language.
